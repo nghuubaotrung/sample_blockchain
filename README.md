@@ -1,4 +1,5 @@
 # Block-chain Network (Minimal Version)
+* 個人の勉強用
 
 ## 登場するクラスの概要
 
